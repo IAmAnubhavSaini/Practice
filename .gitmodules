@@ -1,0 +1,3 @@
+[submodule "randomizer-c"]
+	path = randomizer-c
+	url = http://github.com/IAmAnubhavSaini/randomizer-c
